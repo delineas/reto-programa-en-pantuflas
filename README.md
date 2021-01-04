@@ -73,15 +73,31 @@ Este es el esquema de cada apunte del diario:
 **Fecha**: 01/01/2021
 
 **Humor**: ☹️😐😀
-​
+
 **Hitos conseguidos**:
 - Crear el proyecto
 - Saber aplicar tralili en tralala
-​
+
 **Próximos hitos**
 - Refactorizar hasta triunfar
-​
 ```
+
+El mismo esquema con formato:
+
+---
+
+**Fecha**: 01/01/2021
+
+**Humor**: ☹️😐😀
+
+**Hitos conseguidos**:
+
+*   Crear el proyecto
+*   Saber aplicar tralili en tralala
+
+**Próximos hitos**
+
+*   Refactorizar hasta triunfar
 
 ## **Tu diario empieza aquí**
 
