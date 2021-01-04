@@ -115,6 +115,7 @@ Solo para malandriners premium.
 
 \[WIP\]
 
-## **Otros diarios**
+## **Diarios públicos**
 
 *   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
+*   [Delineas](https://github.com/delineas/programa-en-pantuflas)
