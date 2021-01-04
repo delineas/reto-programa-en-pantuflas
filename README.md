@@ -1,4 +1,4 @@
-# **ProgramaEnPantuflas**
+# **Programa En Pantuflas**
 
 > ¿Qué tienes en común con developers de todo el mundo? Que seguro has programado en zapatillas de andar por casa.
 
