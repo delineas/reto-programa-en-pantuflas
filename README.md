@@ -71,6 +71,7 @@ Este es el esquema de cada apunte del diario:
 ---
 ​
 **Fecha**: 01/01/2021
+
 **Humor**: ☹️😐😀
 ​
 **Hitos conseguidos**:
