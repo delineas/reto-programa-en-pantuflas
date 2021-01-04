@@ -16,21 +16,16 @@ Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 
 ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
 
-Haz un fork de este repositorio o copia el esquema que ves más abajo.
-
-Crea un nuevo apunte cada día o cada semana.
-
-En el apunte debes incluir obligatoriamente tres cosas: la fecha, el estado de humor y los hitos conseguidos. También es bueno añadir los próximos hitos que quieres conseguir.
-
-Añade un recordatorio en tu aplicación favorita de tareas o calendario para que no se te olvide.
+1.  Haz un fork de este repositorio o copia el esquema que ves más abajo.
+2.  Crea un nuevo apunte cada día o cada semana.
+3.  En el apunte debes incluir obligatoriamente tres cosas: la fecha, el estado de humor y los hitos conseguidos. También es bueno añadir los próximos hitos que quieres conseguir.
+4.  Añade un recordatorio en tu aplicación favorita de tareas o calendario para que no se te olvide.
 
 **Lo que ProgramaEnPantuflas NO es.**
 
-No se trata de escribir un diario con todo lujo de detalles. Solo apuntes rápidos para, cuando todo vaya mal, tener un sitio donde ver todo lo que si has avanzado y los retos que has superado.
-
-No se trata de una base de conocimiento llena de enlaces. Hazlo si quieres, pero mantenlo todo al mínimo para que sea más fácil proseguir en el tiempo.
-
-No es para demostrar que sabes mucho o poco, es para ti, para que te regocijes en el camino y no pierdas la perspectiva de los poderes que has conseguido.
+*   No se trata de escribir un diario con todo lujo de detalles. Solo apuntes rápidos para, cuando todo vaya mal, tener un sitio donde ver todo lo que si has avanzado y los retos que has superado.
+*   No se trata de una base de conocimiento llena de enlaces. Hazlo si quieres, pero mantenlo todo al mínimo para que sea más fácil proseguir en el tiempo.
+*   No es para demostrar que sabes mucho o poco, es para ti, para que te regocijes en el camino y no pierdas la perspectiva de los poderes que has conseguido.
 
 ## **FAQ**
 
@@ -38,11 +33,9 @@ No es para demostrar que sabes mucho o poco, es para ti, para que te regocijes e
 
 El objetivo es crear una lista de los retos y dificultades a los que te has enfrentado. Esto es válido para casi cualquier cosa, pero en el mundo del desarrollo tenemos tres grandes familias de hitos:
 
-Los conseguidos en el trabajo a nivel profesional
-
-Los de tus proyectos en paralelo
-
-Los de tu camino de aprendizaje
+1.  Los conseguidos en el trabajo a nivel profesional
+2.  Los de tus proyectos en paralelo
+3.  Los de tu camino de aprendizaje
 
 ### **Yo todavía estoy empezando, ¿puedo participar?**
 
@@ -101,8 +94,10 @@ Aquí tu primer apunte
 
 Aquí puedes incorporar la lista de badges que has conseguido en el juego de gamificación del reto #ProgramoEnPantuflas.
 
-\[Solo para malandriners premium\]
+Solo para malandriners premium.
+
+\[WIP\]
 
 ## **Otros diarios**
 
-_Soon_....
+*   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
