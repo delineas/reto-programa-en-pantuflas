@@ -12,6 +12,20 @@ No nos damos cuenta de la cantidad de decisiones y avances que ejecutamos cada r
 
 Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 
+## **Diarios públicos**
+
+*   [twochemist](https://github.com/twochemist/reto-programa-en-pantuflas)
+*   [terepebernal](https://github.com/terepebernal/reto-programa-en-pantuflas)
+*   [skcode7](https://github.com/skcode7/reto-programa-en-pantuflas)
+*   [PabloJS](https://github.com/PabloJS/reto-programa-en-pantuflas)
+*   [javideveloper](https://github.com/javideveloper/reto-programa-en-pantuflas)
+*   [ejdiezfraile](https://github.com/ejdiezfraile/reto-programa-en-pantuflas)
+*   [dapaspei](https://github.com/dapaspei/reto-programa-en-pantuflas)
+*   [Cainuriel](https://github.com/Cainuriel/reto-programa-en-pantuflas)
+*   [adriacobo](https://github.com/adriacobo/reto-programa-en-pantuflas)
+*   [supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
+*   [selineas](https://github.com/delineas/programa-en-pantuflas)
+
 ## **¿Cómo participo?**
 
 ProgramaEnPantuflas es un reto al que puedes unirte de forma muy sencilla.
@@ -114,8 +128,3 @@ Aquí puedes incorporar la lista de badges que has conseguido en el juego de gam
 Solo para malandriners premium.
 
 \[WIP\]
-
-## **Diarios públicos**
-
-*   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
-*   [Delineas](https://github.com/delineas/programa-en-pantuflas)
