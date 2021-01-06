@@ -24,7 +24,7 @@ Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 *   [Cainuriel](https://github.com/Cainuriel/reto-programa-en-pantuflas)
 *   [adriacobo](https://github.com/adriacobo/reto-programa-en-pantuflas)
 *   [supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
-*   [selineas](https://github.com/delineas/programa-en-pantuflas)
+*   [delineas](https://github.com/delineas/programa-en-pantuflas)
 
 ## **¿Cómo participo?**
 
