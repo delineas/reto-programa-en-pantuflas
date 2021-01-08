@@ -23,6 +23,8 @@ Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 *   [dapaspei](https://github.com/dapaspei/reto-programa-en-pantuflas)
 *   [Cainuriel](https://github.com/Cainuriel/reto-programa-en-pantuflas)
 *   [adriacobo](https://github.com/adriacobo/reto-programa-en-pantuflas)
+*   [alexhermida](https://github.com/alexhermida/reto-programa-en-pantuflas)
+*   [prinhelmet](https://github.com/prinhelmet/reto-programa-en-pantuflas)
 *   [supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
 *   [delineas](https://github.com/delineas/programa-en-pantuflas)
 
