@@ -27,6 +27,7 @@ Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 *   [prinhelmet](https://github.com/prinhelmet/reto-programa-en-pantuflas)
 *   [supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
 *   [delineas](https://github.com/delineas/programa-en-pantuflas)
+*   [ajmasia](https://github.com/ajmasia/reto-programa-en-pantuflas)
 
 ## **¿Cómo participo?**
 
