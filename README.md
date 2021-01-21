@@ -134,4 +134,4 @@ Aquí puedes incorporar la lista de badges que has conseguido en el juego de gam
 
 Solo para malandriners premium.
 
-La info en \[badges/badges.md\](badges/badges.md)
+La info en [cómo funciona](https://github.com/delineas/reto-programa-en-pantuflas/blob/main/badges/como-funciona.md).
