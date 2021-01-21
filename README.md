@@ -134,4 +134,4 @@ Aquí puedes incorporar la lista de badges que has conseguido en el juego de gam
 
 Solo para malandriners premium.
 
-\[WIP\]
+La info en \[badges/badges.md\](badges/badges.md)
