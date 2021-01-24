@@ -167,9 +167,6 @@ Solo para suscriptores de la Zona Premium de danielprimo.io.
 
 Más en camino...
 
-Más en camino, summer is coming...
-
-
 
 ### Badges de reto
 
