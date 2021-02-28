@@ -54,6 +54,7 @@ Así que hagamos algo muy sencillo: apuntémoslo en un diario.
 *   [sergioedo](https://github.com/sergioedo/reto-programa-en-pantuflas)
 *   [Santi1965](https://github.com/Santi1965/reto-programa-en-pantuflas)
 *   [migbara](https://github.com/migbara/reto-programa-en-pantuflas)
+*   [Esemega](https://github.com/Esemega/reto-programa-en-pantuflas)
 *   [delineas](https://github.com/delineas/programa-en-pantuflas)
 
 ## **¿Cómo participo?**
